@@ -1,0 +1,40 @@
+
+#titlebackground{
+  margin-top: 1%;
+  margin-left: -2%;
+}
+
+#capt{
+  width: 300px;
+  margin-top: -1%;
+  margin-left: 0%;
+  padding-bottom: 3%;
+}
+#couver img{
+  width: 100%;
+}
+
+#plus{
+  margin-left: 37%;
+  font-size: 30px;
+  margin-top: 2%;
+}
+.images{
+  padding-top: 20px;
+  display: flex;
+  justify-content:space-between;
+  flex-wrap: wrap;
+}
+.image img{
+  width: 390px;
+}
+#prodact{
+  font-size: 30px;
+  margin-left: 27%;
+}
+#bouton {
+   margin-left: 70%;
+   margin-top: 2%;
+   margin-bottom: 2%;
+  }
+
